@@ -1,0 +1,10 @@
+D:\sunjun\CSharpRepos\jietu2\jietu2\bin\Debug\jietu2.exe.config
+D:\sunjun\CSharpRepos\jietu2\jietu2\bin\Debug\jietu2.exe
+D:\sunjun\CSharpRepos\jietu2\jietu2\bin\Debug\jietu2.pdb
+D:\sunjun\CSharpRepos\jietu2\jietu2\obj\Debug\jietu2.Jietu2.resources
+D:\sunjun\CSharpRepos\jietu2\jietu2\obj\Debug\jietu2.Properties.Resources.resources
+D:\sunjun\CSharpRepos\jietu2\jietu2\obj\Debug\jietu2.csproj.GenerateResource.cache
+D:\sunjun\CSharpRepos\jietu2\jietu2\obj\Debug\jietu2.csproj.CoreCompileInputs.cache
+D:\sunjun\CSharpRepos\jietu2\jietu2\obj\Debug\jietu2.exe
+D:\sunjun\CSharpRepos\jietu2\jietu2\obj\Debug\jietu2.pdb
+D:\sunjun\CSharpRepos\jietu2\jietu2\obj\Debug\jietu2.csprojAssemblyReference.cache
